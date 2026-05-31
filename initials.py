@@ -25,6 +25,6 @@ def main():
   print("...BBBB....BBBB...  ..AAA.....AAA.......KKKKK.KKK....")
   print("...BBBB....BBBB...  ..AAA.....AAA.......KKKKK..KKK...")
   print("...BBBBBBBBBBBB..**...AAA.....AAA...**..KKKKK...KKK..")
-  print("...BBBBBBBBBBBB..**...AAA.....AAA...**..KKKKK....KKK.**”)
+
 
 main()
